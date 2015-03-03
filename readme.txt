@@ -8,7 +8,7 @@ Stable tag: 4.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A plugin that enables editing table records and exporting them to CSV files through minimal database interface from your wp-admin page menu, inspired by CakePHP's scaffold feature.
+A plugin that enables editing table records and exporting them to CSV files through minimal database interface from your wp-admin page menu.
 
 == Description ==
 
