@@ -24,9 +24,9 @@ Similar to CakePHP's scaffold feature, Simple Table Manager is an auxiliary tool
 
 == Frequently asked questions ==
 
-Q1. How can I add a new table by using the plugin?
+= How can I add a new table by using the plugin? =
 
-A1. You cannot. Please use 'full feature' plugins if you need full access to the database.
+= You cannot. Please use 'full feature' plugins if you need full access to the database. =
 
 == Screenshots ==
 
