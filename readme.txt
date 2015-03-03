@@ -40,7 +40,6 @@ You cannot. Please use 'full feature' plugins if you need full access to the dat
 
 1. View of all the records on a table
 2. Detailed view to edit records
-3. Configuration
 
 == Changelog == 
 
