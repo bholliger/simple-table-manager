@@ -1,6 +1,6 @@
 ﻿=== Simple Table Manager ===
 Contributors: Ryo Inoue
-Donate link: http://www.tokyo-ict.com/
+Donate link: http://www.tokyo-ict.com/index_e.html
 Tags: mysql, crud, table, database, simple, export, query
 Requires at least: 4.0
 Tested up to: 4.1
