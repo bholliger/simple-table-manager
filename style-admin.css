@@ -1,0 +1,25 @@
+.widefat {
+	width: auto;
+}
+
+th.crud-a-table {
+	font-weight: bold;
+}
+
+td.crud-a-table-list-all-even {
+	border: thin solid white;
+}
+
+td.crud-a-table-list-all-odd {
+	border: thin solid white;
+	background-color: #FFFAFA;
+}
+
+input[type=text] {
+	width: 400px;
+}
+
+textarea {
+	width: 400px;
+	height: 10em;
+}
