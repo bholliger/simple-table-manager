@@ -47,9 +47,12 @@ You cannot. Please use 'full featured' plugins if you need full access to the da
 First release
 
 = 1.1 (01 May 2015) =
-Added feature to auto-adjust input text fields according to data type.
-Enabled insert and retrieval of data containing special chars.
-Rearranged files for a loosely MVC structure.
+Added feature to auto-adjust input text fields according to data type
+
+Enabled insert and retrieval of data containing special chars
+
+Rearranged files for a loosely MVC structure
+
 Fixed a few minor bugs.
 
 == Upgrade Notice ==
