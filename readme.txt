@@ -3,12 +3,12 @@ Contributors: Ryo Inoue
 Donate link: http://www.tokyo-ict.com/index_e.html
 Tags: mysql, crud, table, database, simple, export, query
 Requires at least: 4.0
-Tested up to: 4.1
-Stable tag: 4.1
+Tested up to: 4.2
+Stable tag: 4.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A plugin that enables editing table records and exporting them to CSV files through minimal database interface from your wp-admin page menu.
+Enables editing table records and exporting them to CSV files through minimal database interface from your wp-admin page menu.
 
 == Description ==
 
@@ -20,7 +20,7 @@ Simple Table Manager enables editing table records and exporting them to CSV fil
 * Export table records to a CSV file
 * Not allow users to change the structure of the table
 
-Unlike 'full featured' database management plugins, it does not allow users to alter the structure of the table but requires no knowledge on MySQL or PHP.
+Unlike 'full feature' database management plugins, it does not allow users to alter the structure of the table but requires no knowledge on MySQL or PHP.
 
 Similar to CakePHP's scaffold feature, Simple Table Manager is an auxiliary tool suited for the initial development phase of a website. It is also ideal when you want to ask someone else with no database expertise to keep track of table records on your website (that was my motivation for developing this plugin at least).
 
@@ -43,7 +43,14 @@ You cannot. Please use 'full featured' plugins if you need full access to the da
 
 == Changelog == 
 
-None
+= 1.0 (03 Mar 2015) =
+First release
+
+= 1.1 (01 May 2015) =
+Added feature to auto-adjust input text fields according to data type.
+Enabled insert and retrieval of data containing special chars.
+Rearranged files for a loosely MVC structure.
+Fixed a few minor bugs.
 
 == Upgrade Notice ==
 
